@@ -8,7 +8,7 @@ Template Usage: Utilizes Flask's templating engine, Jinja2, to separate HTML str
 Styling: Basic CSS styling is applied to enhance the visual presentation of the webpage.
 
 # Technologies Used
-Python: The core programming language used for developing the application.
+Python: The core programming language used for developing the application.\n
 Flask: The web framework used to create the web server and manage routes.
 Jinja2: The templating engine used for rendering HTML templates.
 HTML & CSS: Markup and styling for the webpage layout and design.
